@@ -1,0 +1,33 @@
+25-Apr-2024 13:48:11 INFO - Starting Application using Java 19.0.2 with PID 25769 (/home/hp/Desktop/Spring Data JPA/03.Read-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+25-Apr-2024 13:48:11 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+25-Apr-2024 13:48:11 INFO - No active profile set, falling back to 1 default profile: "default"
+25-Apr-2024 13:48:14 INFO - Started Application in 3.182 seconds (process running for 5.28)
+25-Apr-2024 13:48:14 INFO - Starting
+25-Apr-2024 15:42:11 INFO - Starting Application using Java 19.0.2 with PID 29894 (/home/hp/Desktop/Spring Data JPA/03.Read-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+25-Apr-2024 15:42:11 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+25-Apr-2024 15:42:11 INFO - No active profile set, falling back to 1 default profile: "default"
+25-Apr-2024 15:43:24 INFO - Starting Application using Java 19.0.2 with PID 30018 (/home/hp/Desktop/Spring Data JPA/03.Read-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+25-Apr-2024 15:43:24 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+25-Apr-2024 15:43:24 INFO - No active profile set, falling back to 1 default profile: "default"
+25-Apr-2024 15:43:27 INFO - Started Application in 4.117 seconds (process running for 5.568)
+25-Apr-2024 15:43:27 INFO - Customer added successfully
+25-Apr-2024 15:52:24 INFO - Starting Application using Java 19.0.2 with PID 30417 (/home/hp/Desktop/Spring Data JPA/03.Read-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+25-Apr-2024 15:52:24 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+25-Apr-2024 15:52:24 INFO - No active profile set, falling back to 1 default profile: "default"
+25-Apr-2024 15:52:28 INFO - Started Application in 4.073 seconds (process running for 5.654)
+25-Apr-2024 15:52:28 ERROR - Customer not found
+25-Apr-2024 15:53:54 INFO - Starting Application using Java 19.0.2 with PID 30540 (/home/hp/Desktop/Spring Data JPA/03.Read-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+25-Apr-2024 15:53:54 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+25-Apr-2024 15:53:54 INFO - No active profile set, falling back to 1 default profile: "default"
+25-Apr-2024 15:53:58 INFO - Started Application in 4.549 seconds (process running for 6.247)
+25-Apr-2024 15:53:58 INFO - CustomerDTO(customerId=6, emailId=harry@infy.com, name=Harry, dateOfBirth=2024-04-25)
+25-Apr-2024 16:16:41 INFO - Starting Application using Java 19.0.2 with PID 31285 (/home/hp/Desktop/Spring Data JPA/03.Read-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+25-Apr-2024 16:16:41 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+25-Apr-2024 16:16:41 INFO - No active profile set, falling back to 1 default profile: "default"
+25-Apr-2024 16:16:45 INFO - Started Application in 4.436 seconds (process running for 5.852)
+25-Apr-2024 16:16:45 INFO - CustomerDTO(customerId=2, emailId=monica@infy.com, name=Monica, dateOfBirth=1987-04-02)
+25-Apr-2024 16:16:45 INFO - CustomerDTO(customerId=3, emailId=allen@infy.com, name=Allen, dateOfBirth=1980-04-02)
+25-Apr-2024 16:16:45 INFO - CustomerDTO(customerId=4, emailId=monica@infy.com, name=Monica, dateOfBirth=1987-04-02)
+25-Apr-2024 16:16:45 INFO - CustomerDTO(customerId=5, emailId=allen@infy.com, name=Allen, dateOfBirth=1980-04-02)
+25-Apr-2024 16:16:45 INFO - CustomerDTO(customerId=6, emailId=harry@infy.com, name=Harry, dateOfBirth=2024-04-25)
+25-Apr-2024 16:16:45 INFO - CustomerDTO(customerId=7, emailId=badal@infy.com, name=Badal, dateOfBirth=2024-04-25)

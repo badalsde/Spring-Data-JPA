@@ -1,0 +1,11 @@
+28-Apr-2024 02:33:05 INFO - Starting Application using Java 19.0.2 with PID 49424 (/home/hp/Desktop/Spring Data JPA/07.Where-Clause-JPQL/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+28-Apr-2024 02:33:05 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+28-Apr-2024 02:33:05 INFO - No active profile set, falling back to 1 default profile: "default"
+28-Apr-2024 02:33:09 INFO - Started Application in 4.139 seconds (process running for 5.688)
+28-Apr-2024 02:33:09 INFO - CustomerDTO(customerId=1004, emailId=null, name=Chan, dateOfBirth=1982-08-11, city=Vancouver)
+28-Apr-2024 02:34:16 INFO - Starting Application using Java 19.0.2 with PID 49553 (/home/hp/Desktop/Spring Data JPA/07.Where-Clause-JPQL/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+28-Apr-2024 02:34:16 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+28-Apr-2024 02:34:16 INFO - No active profile set, falling back to 1 default profile: "default"
+28-Apr-2024 02:34:19 INFO - Started Application in 4.005 seconds (process running for 5.613)
+28-Apr-2024 02:34:20 INFO - CustomerDTO(customerId=1005, emailId=jill@infy.com, name=Jill, dateOfBirth=1990-01-01, city=Pune)
+28-Apr-2024 02:34:20 INFO - CustomerDTO(customerId=1006, emailId=jack@infy.com, name=Jack, dateOfBirth=1996-07-28, city=Delhi)

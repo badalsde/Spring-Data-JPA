@@ -1,0 +1,9 @@
+28-Apr-2024 23:56:53 INFO - Starting Application using Java 19.0.2 with PID 20832 (/home/hp/Desktop/Spring Data JPA/08.Aggregate-JPQL/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+28-Apr-2024 23:56:53 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+28-Apr-2024 23:56:53 INFO - No active profile set, falling back to 1 default profile: "default"
+28-Apr-2024 23:56:59 INFO - Started Application in 7.094 seconds (process running for 9.198)
+28-Apr-2024 23:57:00 INFO - MAX_BALANCE: 383981.0
+28-Apr-2024 23:57:00 INFO - TOTAL_BALANCE: 1919905
+28-Apr-2024 23:57:00 INFO - NUMBER_OF_ACCOUNTS: 5
+28-Apr-2024 23:57:00 INFO - MIN_BALANCE: 12345
+28-Apr-2024 23:57:00 INFO - MAX_BALANCE: 899567

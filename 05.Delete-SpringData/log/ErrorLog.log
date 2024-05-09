@@ -1,0 +1,10 @@
+26-Apr-2024 01:05:58 INFO - Starting Application using Java 19.0.2 with PID 4712 (/home/hp/Desktop/Spring Data JPA/05.Delete-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+26-Apr-2024 01:05:58 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+26-Apr-2024 01:05:58 INFO - No active profile set, falling back to 1 default profile: "default"
+26-Apr-2024 01:06:02 INFO - Started Application in 4.424 seconds (process running for 6.287)
+26-Apr-2024 01:06:02 INFO - Customer deleted successfully
+26-Apr-2024 01:07:44 INFO - Starting Application using Java 19.0.2 with PID 4870 (/home/hp/Desktop/Spring Data JPA/05.Delete-SpringData/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+26-Apr-2024 01:07:44 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+26-Apr-2024 01:07:44 INFO - No active profile set, falling back to 1 default profile: "default"
+26-Apr-2024 01:07:48 INFO - Started Application in 4.769 seconds (process running for 6.494)
+26-Apr-2024 01:07:48 ERROR - Customer not found

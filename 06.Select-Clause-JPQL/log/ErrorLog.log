@@ -1,0 +1,36 @@
+27-Apr-2024 16:17:33 INFO - Starting Application using Java 19.0.2 with PID 26622 (/home/hp/Desktop/Spring Data JPA/06.Select-Clause-JPQL/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+27-Apr-2024 16:17:33 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+27-Apr-2024 16:17:33 INFO - No active profile set, falling back to 1 default profile: "default"
+27-Apr-2024 16:17:37 INFO - Started Application in 4.534 seconds (process running for 6.039)
+27-Apr-2024 16:17:37 INFO - Monica
+27-Apr-2024 16:17:37 INFO - Allen
+27-Apr-2024 16:17:37 INFO - Allen
+27-Apr-2024 16:17:37 INFO - Harry
+27-Apr-2024 16:17:37 INFO - Badal
+27-Apr-2024 16:17:37 INFO - Badal
+27-Apr-2024 16:17:37 INFO - 
+
+27-Apr-2024 16:18:12 INFO - Starting Application using Java 19.0.2 with PID 26729 (/home/hp/Desktop/Spring Data JPA/06.Select-Clause-JPQL/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+27-Apr-2024 16:18:12 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+27-Apr-2024 16:18:12 INFO - No active profile set, falling back to 1 default profile: "default"
+27-Apr-2024 16:18:16 INFO - Started Application in 4.371 seconds (process running for 5.958)
+27-Apr-2024 16:18:17 INFO - Monica		1987-04-02
+27-Apr-2024 16:18:17 INFO - Allen		1980-04-02
+27-Apr-2024 16:18:17 INFO - Allen		1980-04-02
+27-Apr-2024 16:18:17 INFO - Harry		2024-04-25
+27-Apr-2024 16:18:17 INFO - Badal		2024-04-25
+27-Apr-2024 16:18:17 INFO - Badal		2024-04-26
+27-Apr-2024 16:18:17 INFO - 
+
+27-Apr-2024 16:18:47 INFO - Starting Application using Java 19.0.2 with PID 26824 (/home/hp/Desktop/Spring Data JPA/06.Select-Clause-JPQL/target/classes started by hp in /home/hp/Desktop/Spring Data JPA)
+27-Apr-2024 16:18:47 DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+27-Apr-2024 16:18:47 INFO - No active profile set, falling back to 1 default profile: "default"
+27-Apr-2024 16:18:51 INFO - Started Application in 4.485 seconds (process running for 6.138)
+27-Apr-2024 16:18:51 INFO - CustomerDTO(customerId=2, emailId=monica@infy.com, name=Monica, dateOfBirth=1987-04-02)
+27-Apr-2024 16:18:51 INFO - CustomerDTO(customerId=3, emailId=allen@infy.com, name=Allen, dateOfBirth=1980-04-02)
+27-Apr-2024 16:18:51 INFO - CustomerDTO(customerId=5, emailId=allen@infy.com, name=Allen, dateOfBirth=1980-04-02)
+27-Apr-2024 16:18:51 INFO - CustomerDTO(customerId=6, emailId=harry@infy.com, name=Harry, dateOfBirth=2024-04-25)
+27-Apr-2024 16:18:51 INFO - CustomerDTO(customerId=7, emailId=badal@infy.com, name=Badal, dateOfBirth=2024-04-25)
+27-Apr-2024 16:18:51 INFO - CustomerDTO(customerId=8, emailId=badal@infy.com, name=Badal, dateOfBirth=2024-04-26)
+27-Apr-2024 16:18:51 INFO - 
+
